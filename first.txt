@@ -3,4 +3,4 @@ Gitの練習をしていきます。
 .git add
 .git commit
 .git rm
-更に変更
+.git diff
