@@ -2,3 +2,5 @@ Gitの練習をしていきます。
 基本的なWork flow を学びます。
 .git add
 .git commit
+.git rm
+更に変更
